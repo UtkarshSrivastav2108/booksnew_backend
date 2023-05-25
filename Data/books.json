@@ -1,0 +1,162 @@
+[
+     {
+          "name": "Gone Girl",
+          "category": "Mystery/Thriller",
+          "id": 1,
+          "pages": 432,
+          "imageURL": "https://m.media-amazon.com/images/I/71FZo7-3BnL.jpg",
+          "bookUrl": "https://www.anderson1.org/site/handlers/filedownload.ashx?moduleinstanceid=24440&dataid=44258&FileName=hobbit.pdf"
+     },
+     {
+          "name": "The Da Vinci Code",
+          "category": "Mystery/Thriller",
+          "id": 2,
+          "pages": 592,
+          "imageURL": "https://www.thoughtco.com/thmb/dbFTerm-8CCGlvFHiV9_yq58h_w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/the-da-vinci-code-589f9cee3df78c4758a2d9e7.jpg",
+          "bookUrl": "https://www.anderson1.org/site/handlers/filedownload.ashx?moduleinstanceid=24440&dataid=44258&FileName=hobbit.pdf"
+     },
+     {
+          "name": "The Girl on the Train",
+          "category": "Mystery/Thriller",
+          "id": 3,
+          "pages": 336,
+          "imageURL": "https://m.media-amazon.com/images/I/A1P4Rlq9xvL.jpg",
+          "bookUrl": "https://bayanebartar.org/file-dl/library/story/The_Girl_on_the_Train_-_Paula_Hawkins.pdf"
+     },
+     {
+          "name": "The Great Gatsby",
+          "category": "Historical Fiction",
+          "id": 4,
+          "pages": 180,
+          "imageURL": "https://kbimages1-a.akamaihd.net/c5742da9-e63f-4ed5-acb6-074fab5e3f41/1200/1200/False/the-great-gatsby-11.jpg",
+          "bookUrl": "https://www.anderson1.org/site/handlers/filedownload.ashx?moduleinstanceid=24440&dataid=44258&FileName=hobbit.pdf"
+     },
+     {
+          "name": "To Kill a Mockingbird",
+          "category": "Historical Fiction",
+          "id": 5,
+          "pages": 324,
+          "imageURL": "https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg",
+          "bookUrl": "https://www.anderson1.org/site/handlers/filedownload.ashx?moduleinstanceid=24440&dataid=44258&FileName=hobbit.pdf"
+     },
+     {
+          "name": "1984",
+          "category": "Science Fiction",
+          "id": 6,
+          "pages": 328,
+          "imageURL": "https://m.media-amazon.com/images/I/819ijTWp9JL.jpg",
+          "bookUrl": "https://www.anderson1.org/site/handlers/filedownload.ashx?moduleinstanceid=24440&dataid=44258&FileName=hobbit.pdf"
+     },
+     {
+          "name": "Brave New World",
+          "category": "Science Fiction",
+          "id": 7,
+          "pages": 288,
+          "imageURL": "https://m.media-amazon.com/images/I/81IpKyby3OL.jpg",
+          "bookUrl": "https://www.anderson1.org/site/handlers/filedownload.ashx?moduleinstanceid=24440&dataid=44258&FileName=hobbit.pdf"
+     },
+     {
+          "name": "Dune",
+          "category": "Science Fiction",
+          "id": 8,
+          "pages": 896,
+          "imageURL": "https://m.media-amazon.com/images/I/71wZ5JBC4QL.jpg",
+          "bookUrl": "https://www.anderson1.org/site/handlers/filedownload.ashx?moduleinstanceid=24440&dataid=44258&FileName=hobbit.pdf"
+     },
+     {
+          "name": "Harry Potter and the Sorcerer's Stone",
+          "category": "Fantasy",
+          "id": 9,
+          "pages": 320,
+          "imageURL": "https://kbimages1-a.akamaihd.net/6750d058-29cb-4626-9c12-a62e816a80cc/1200/1200/False/harry-potter-and-the-philosopher-s-stone-3.jpg",
+          "bookUrl": "https://www.anderson1.org/site/handlers/filedownload.ashx?moduleinstanceid=24440&dataid=44258&FileName=hobbit.pdf"
+     },
+     {
+          "name": "The Hobbit",
+          "category": "Fantasy",
+          "id": 10,
+          "pages": 304,
+          "imageURL": "https://kbimages1-a.akamaihd.net/a821b502-0d07-4921-ac14-e431625d04e7/1200/1200/False/the-hobbit-illustrated-by-alan-lee.jpg",
+          "bookUrl": "https://www.anderson1.org/site/handlers/filedownload.ashx?moduleinstanceid=24440&dataid=44258&FileName=hobbit.pdf"
+     },
+     {
+          "name": "Pride and Prejudice",
+          "category": "Romance",
+          "id": 11,
+          "pages": 432,
+          "imageURL": "https://kbimages1-a.akamaihd.net/afcd8653-3b27-4423-bee9-570fb1441aed/353/569/90/False/pride-and-prejudice-71.jpg",
+          "bookUrl": "https://www.anderson1.org/site/handlers/filedownload.ashx?moduleinstanceid=24440&dataid=44258&FileName=hobbit.pdf"
+     },
+     {
+          "name": "Outlander",
+          "category": "Romance",
+          "id": 12,
+          "pages": 896,
+          "imageURL": "https://m.media-amazon.com/images/I/71pjU7wfZFL.jpg",
+          "bookUrl": "https://www.anderson1.org/site/handlers/filedownload.ashx?moduleinstanceid=24440&dataid=44258&FileName=hobbit.pdf"
+     },
+     {
+          "name": "The Fault in Our Stars",
+          "category": "Young Adult",
+          "id": 13,
+          "pages": 336,
+          "imageURL": "https://m.media-amazon.com/images/I/817tHNcyAgL.jpg",
+          "bookUrl": "https://www.anderson1.org/site/handlers/filedownload.ashx?moduleinstanceid=24440&dataid=44258&FileName=hobbit.pdf"
+     },
+     {
+          "name": "The Hunger Games",
+          "category": "Young Adult",
+          "id": 14,
+          "pages": 384,
+          "imageURL": "https://upload.wikimedia.org/wikipedia/en/3/39/The_Hunger_Games_cover.jpg",
+          "bookUrl": "https://www.anderson1.org/site/handlers/filedownload.ashx?moduleinstanceid=24440&dataid=44258&FileName=hobbit.pdf"
+     },
+     {
+          "name": "Divergent",
+          "category": "Dystopian",
+          "id": 15,
+          "pages": 496,
+          "imageURL": "https://m.media-amazon.com/images/I/61-HpifV9DL.jpg",
+          "bookUrl": "https://www.anderson1.org/site/handlers/filedownload.ashx?moduleinstanceid=24440&dataid=44258&FileName=hobbit.pdf"
+     },
+     {
+          "name": "The Maze Runner",
+          "category": "Dystopian",
+          "id": 16,
+          "pages": 384,
+          "imageURL": "https://m.media-amazon.com/images/I/91IJ2rIOEDL.jpg",
+          "bookUrl": "https://www.anderson1.org/site/handlers/filedownload.ashx?moduleinstanceid=24440&dataid=44258&FileName=hobbit.pdf"
+     },
+     {
+          "name": "The Catcher in the Rye",
+          "category": "Contemporary Fiction",
+          "id": 17,
+          "pages": 224,
+          "imageURL": "https://m.media-amazon.com/images/I/61fgOuZfBGL.jpg",
+          "bookUrl": "https://www.anderson1.org/site/handlers/filedownload.ashx?moduleinstanceid=24440&dataid=44258&FileName=hobbit.pdf"
+     },
+     {
+          "name": "Gone with the Wind",
+          "category": "Historical Romance",
+          "id": 18,
+          "pages": 960,
+          "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Gone_with_the_Wind_cover.jpg/220px-Gone_with_the_Wind_cover.jpg",
+          "bookUrl": "https://www.anderson1.org/site/handlers/filedownload.ashx?moduleinstanceid=24440&dataid=44258&FileName=hobbit.pdf"
+     },
+     {
+          "name": "The Help",
+          "category": "Historical Fiction",
+          "id": 19,
+          "pages": 544,
+          "imageURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622355533i/4667024.jpg",
+          "bookUrl": "https://www.anderson1.org/site/handlers/filedownload.ashx?moduleinstanceid=24440&dataid=44258&FileName=hobbit.pdf"
+     },
+     {
+          "name": "To All the Boys I've Loved Before",
+          "category": "Young Adult",
+          "id": 20,
+          "pages": 384,
+          "imageURL": "https://kbimages1-a.akamaihd.net/bee8fd16-2622-4b11-989c-d47cb6ce61a0/1200/1200/False/to-all-the-boys-i-ve-loved-before-complete-collection.jpg",
+          "bookUrl": "https://www.anderson1.org/site/handlers/filedownload.ashx?moduleinstanceid=24440&dataid=44258&FileName=hobbit.pdf"
+     }
+]
